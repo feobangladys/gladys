@@ -1,0 +1,15 @@
+{
+	"name": "get-ip",
+	"version": "0.0.2",
+	"description": "Gladys local extern ip",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"gladys",
+		"ip",
+		"module"
+	],
+	"author": "@feobangladys"
+}
