@@ -1,6 +1,6 @@
 {
 	"name": "get-ip",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Gladys local extern ip",
 	"main": "index.js",
 	"scripts": {
